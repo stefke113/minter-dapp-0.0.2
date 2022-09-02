@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the color koalas";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'the colo koalas are a bunch of colourfull koalas that are dying to hang out on the chain';
+const welcome_p = 'the color koalas are a bunch of colourfull koalas that are dying to hang out on the chain';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
